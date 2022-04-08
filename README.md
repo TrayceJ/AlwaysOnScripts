@@ -2,11 +2,12 @@
 
 Thank you for visiting my collection of scripts and documents relating to the Microsoft SQL Server AlwaysOn Availability Group features.  Many of these scripts were written while I was a member of the AlwaysOn support team in CSS or later as a Premier Field Engineer working at Microsoft.
 
-I have divided up my scripts into three areas (folders):
+I have divided up my scripts into four areas (folders):
 
 * BlockedRedoExample
 * Diagnostic
 * Informational
+* Presentations
 
 If you have questions or comments, please feel free to email me at:  trayce.jordan@microsoft.com  or trayce@jordanhome.net.
 
@@ -47,3 +48,13 @@ The scripts in this folder are some scripts that provide information about the a
 |Get_HADR_EndPointStates.sql| A script to list the endpoints and their states.  Can be helpful in troubleshooting connectivity issues between the primary and secondary replicas.|
 |GetAGRoutingLists.sql| Lists all of the routing lists defined for each availability group on an instance.  Can be helpful in documenting them or troubleshooting failure to be redirected to a secondary replica using read-only routing.|
 |WhoIsPrimary.sql| A script that can be run from either a primary or a secondary to tell which node is acting as the primary at that moment.|
+
+## Presentations
+
+This folder contains PowerPoint presentations I have made in the past for the SQL PASS High Availability Disaster Recovery virtual chapter.  Additionally some troubleshooting scenarios are provided for you to review as an exercise.
+
+| File | Description / purpose |
+|------|:----------------------|
+| HADRVirtualChapter_20170912.pptx | Slide deck used for the presentation given to the SQL PASS HADR Virtual Chapter in September of 2017.  There is a recording of this [presentation on YouTube](https://www.youtube.com/watch?v=hJvo8eW8aLA). |
+| TroubleshootingAlwaysOn_20150714.pptx | Slide deck used for the presentation given to the SQL PASS HADR Virtual Chapter in July of 2015.  There is a recording of this [presentation on YouTube](https://www.youtube.com/watch?v=Y7oztzElVQU).|
+|TroubleshootingScenarios.zip| A zip file containing three scenario exercises referred to in my September 2017 presentation to the SQL PASS HADR Virtual Chapter.  The other script files referenced in that presentation are found in other folders here in this project.|
