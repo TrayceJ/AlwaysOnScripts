@@ -8,7 +8,8 @@ I have divided up my scripts into three areas (folders):
 * Diagnostic
 * Informational
 
-[[_TOC_]]
+If you have questions or comments, please feel free to email me at:  trayce.jordan@microsoft.com  or trayce@jordanhome.net.
+
 
 ## BlockedRedoExample
 
