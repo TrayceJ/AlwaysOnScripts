@@ -1,5 +1,5 @@
 /*=====================================================================
-AUTHOR:     trayce.jordan@microsoft.com
+AUTHOR:     trayce@jordanhome.net
 FILENAME:   Shred_system_health_XEL.sql
 NOTES:
   use the CTRL-SHIFT-M macro substitution

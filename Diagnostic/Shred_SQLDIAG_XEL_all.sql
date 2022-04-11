@@ -1,5 +1,5 @@
 /*=====================================================================
-  AUTHOR:   Trayce Jordan (trayce.jordan@microsoft.com)
+  AUTHOR:   Trayce Jordan (trayce@jordanhome.net)
   FILENAME: Shred_SQLDIAG_XEL_all.sql
   NOTES:
 

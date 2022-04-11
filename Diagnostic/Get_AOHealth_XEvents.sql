@@ -1,5 +1,5 @@
 /*=====================================================================
-AUTHOR:    trayce@seekwellandprosper.com
+AUTHOR:    trayce@jordanhome.net
 FILENAME:  Get_AOHealth_XEvents.sql
 VERSION:	1.2
 NOTES:

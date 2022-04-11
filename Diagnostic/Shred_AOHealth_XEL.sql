@@ -1,5 +1,5 @@
 /*=====================================================================
-AUTHOR:    trayce@seekwellandprosper.com
+AUTHOR:    trayce@jordanhome.net
 FILENAME:  Shred_AOHealth_XEL.sql
 VERSION 2.2
 NOTES:
